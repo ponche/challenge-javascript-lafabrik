@@ -1,0 +1,22 @@
+{
+  "name": "challenge-javascript-lafabrik",
+  "version": "1.0.0",
+  "description": "Challenge AnimEstiam",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ponche/challenge-javascript-lafabrik.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ponche/challenge-javascript-lafabrik/issues"
+  },
+  "homepage": "https://github.com/ponche/challenge-javascript-lafabrik#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
